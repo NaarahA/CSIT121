@@ -1,0 +1,35 @@
+body {
+	background-color: #dda15e;
+	background-image: url("chicken_and_dumplings2.jpg");
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: 25%, 25%;
+	text-transform: none;
+	font-family: cursive;
+	color: #fefae0;
+	
+}
+h1, h2{
+	margin-left: 550px;
+}
+
+h4, ul {
+	margin-left: 575px;
+}
+
+p {
+	text-align: center;
+}
+
+ol {
+	margin-left: 250px;
+	margin-right: 250px;
+	
+}
+
+img{
+	border-radius: 15px;
+	float: left;
+	margin-left: 75px;
+	box-shadow: 5px 5px 5px #828282;
+}
