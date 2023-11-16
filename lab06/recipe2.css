@@ -1,0 +1,17 @@
+body {
+	background-color: #dda15e;
+	text-transform: none;
+	font-family: cursive;
+	color: #fefae0;
+	
+}
+
+img {
+	border-radius: 15px;
+	float: left;
+	margin-left: 75px;
+}
+
+footer{
+	padding-top: 200px;
+}

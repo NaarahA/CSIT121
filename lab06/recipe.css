@@ -1,0 +1,39 @@
+body {
+	background-image: url(wood_background.webp);
+	text-transform: none;
+	font-family: cursive;
+	color: #fefae0;
+	text-align: center;
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #dda15e;
+}
+
+#ingredients {
+	float: left;
+	width: 300px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+#instructions {
+	margin-left: 300px;
+	width: 700px;
+	height: 700px;
+}
+
+h1{
+	padding-top: 25px;
+}
+
+img{
+	padding-top: 50px;
+}
+
+footer{
+	padding: 0 50px 50px;
+}
